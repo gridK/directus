@@ -1,6 +1,6 @@
 {
   "name": "directus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "directus": "9.12.2"
+    "directus": "10.2.1"
   }
 }
